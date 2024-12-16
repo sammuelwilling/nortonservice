@@ -858,10 +858,10 @@ form .btn {
 }
 
 .mbr-overlay {
-  background-color: #000;
+  background-color: #f3b127;
   bottom: 0;
   left: 0;
-  opacity: 0.5;
+  opacity: 1.0;
   position: absolute;
   right: 0;
   top: 0;
