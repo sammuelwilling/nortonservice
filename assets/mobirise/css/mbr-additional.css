@@ -1520,7 +1520,7 @@ a {
 .cid-ux200GJv73 .image-wrapper img {
   height: 650px;
   border-radius: 2rem !important;
-  object-fit: cover;
+  object-fit: contain;
 }
 @media (max-width: 992px) {
   .cid-ux200GJv73 .image-wrapper img {
